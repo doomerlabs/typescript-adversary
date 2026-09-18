@@ -13,4 +13,4 @@ This repository contains the first-party TypeScript adversary. It should review 
 
 ## Validation
 
-Run `npm test`, `npm audit --audit-level=high`, `adversary validate .`, and `adversary pack --check .`.
+Run `npm test`, `npm audit --audit-level=high`, `doomer validate .`, and `doomer pack --check .`.
