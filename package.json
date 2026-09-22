@@ -4,7 +4,7 @@
   "description": "Staff-level hybrid reviewer for TypeScript code.",
   "type": "module",
   "private": true,
-  "license": "MIT",
+  "license": "Apache-2.0",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/doomerlabs/typescript-adversary.git"
